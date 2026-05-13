@@ -4,7 +4,7 @@
 
 <!-- ===================== -->
 
-<h1 align="center">Lim Jian Ping</h1>
+<h1 align="center">SHANE YOUNG</h1>
 <h3 align="center">Senior Frontend & Mobile Engineer · Product-Focused</h3>
 
 <p align="center">
