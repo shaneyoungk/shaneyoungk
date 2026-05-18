@@ -1,22 +1,21 @@
-<!-- ===================== -->
 <!--  PROFILE HEADER       -->
+
 <!-- ===================== -->
 
-<h1 align="center">FAUZIA MUSA</h1>
-<h3 align="center">DevOps & Observability Engineer Enthusiast · Cloud & Infrastructure</h3>
+<h1 align="center">SHANE YOUNG</h1>
+<h3 align="center">Senior Frontend & Mobile Engineer · Product-Focused</h3>
 
 <p align="center">
-  Passionate about building <b>reliable, observable, and scalable systems</b>
-  using cloud infrastructure, automation, and monitoring technologies.
+  I build <b>high-quality mobile and web experiences</b> with a strong foundation in frontend architecture,
+  performance, and pragmatic backend integration.
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/shanekizito">
+    <img src="https://img.shields.io/github/followers/shanekizito?label=Followers&style=for-the-badge" />
   </a>
-
-  <a href="https://github.com/yourusername?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge" />
+  <a href="https://github.com/shanekizito?tab=repositories">
+    <img src="https://img.shields.io/github/stars/shanekizito?label=Stars&style=for-the-badge" />
   </a>
 </p>
 
@@ -25,109 +24,84 @@
 ## 📊 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m an aspiring DevOps & Observability Engineer with a strong interest in
-cloud infrastructure, monitoring systems, automation, and platform reliability.
+I’m a senior frontend & mobile engineer focused on building **polished, scalable user-facing products**.
+I specialize in turning product ideas into fast, reliable applications that feel great to use especially on mobile.
 
-My focus is on building systems that are:
+I’ve worked across startups and production systems, owning features end-to-end:
 
-* scalable
-* observable
-* secure
-* easy to maintain
+* UI architecture and state management
+* mobile performance and platform-specific optimizations
+* API integration and backend coordination
+* CI/CD, deployment, and iteration at speed
 
-I enjoy working with cloud-native tooling, Linux environments, and CI/CD pipelines,
-while continuously improving my understanding of infrastructure and service operations.
+While my strength is on the **frontend and mobile side**, I’m comfortable designing and integrating
+backend services that support real-world product needs.
 
 ---
 
 ## 🧠 What I Build
 
-* Cloud infrastructure using AWS and Terraform
-* Monitoring and observability systems with Prometheus, Grafana, ELK, and CloudWatch
-* Containerized applications using Docker and Kubernetes
-* CI/CD automation workflows using GitHub Actions and Jenkins
-* Full-stack applications with secure authentication and API integration
-* Real-time applications using WebSockets and Socket.IO
+* Mobile apps with **React Native, Expo, and native integrations**
+* Frontend-heavy web applications using **React and modern UI systems**
+* Product-oriented APIs and backend services (Node.js, Firebase, Supabase)
+* Real-time, data-driven interfaces (maps, payments, chat, dashboards)
+* Consumer-facing products with strong UX, performance, and reliability requirements
+
+I optimize for **clarity, user experience, and long-term maintainability**  not just shipping features.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Production Experience)
 
-### Cloud & Infrastructure (Primary)
+### Frontend & Mobile (Primary)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge\&logo=expo)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
-### Monitoring & Observability
+### Backend & Data (Supporting)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws)
+### APIs, Cloud & Tooling
 
-### Automation & CI/CD
+![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### Advanced & Integrations
 
-### Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
----
-
-## 🚀 Highlighted Experience
-
-### Multi-Tier AWS Infrastructure Deployment
-
-* Provisioned AWS infrastructure using Terraform
-* Containerized services with Docker and Nginx
-* Integrated CI/CD workflows
-* Implemented monitoring with Prometheus and Grafana
-
-### Secure Authentication System
-
-* Developed JWT authentication and authorization flows
-* Implemented Role-Based Access Control (RBAC)
-* Secured APIs within a MERN stack application
-
-### Real-Time Task Management System
-
-* Built WebSocket-powered synchronization using Socket.IO
-* Developed REST APIs for CRUD operations and authentication
-* Managed backend integration using Express and MongoDB
+![Payments](https://img.shields.io/badge/Payments-Stripe%20%7C%20M--PESA-6772E5?style=for-the-badge)
+![Maps](https://img.shields.io/badge/Maps-Google%20Maps-4285F4?style=for-the-badge\&logo=google-maps)
+![Web3](https://img.shields.io/badge/Web3-Web3.js%20%7C%20Solidity-363636?style=for-the-badge)
 
 ---
 
-## 🧭 Engineering Principles
+## 🧭 How I Think About Building Products
 
-* Reliability and observability should be built into systems from the start
-* Automation reduces operational overhead and human error
-* Infrastructure should be reproducible and version controlled
-* Monitoring is critical for maintaining healthy systems
-* Simplicity and maintainability outperform unnecessary complexity
+* UX and performance are first-class engineering concerns
+* Prefer simple, explicit frontend architectures over clever abstractions
+* Design mobile-first, then scale to web
+* Backend exists to empower the frontend — not fight it
+* Build systems that evolve gracefully over time
 
 ---
 
 <p align="center">
-  <i>
-    Open to DevOps, Cloud, Platform Engineering, and Observability-focused opportunities.
-  </i>
+  <i>Open to senior frontend and mobile engineering roles, especially product-driven teams building real user experiences.</i>
 </p>
