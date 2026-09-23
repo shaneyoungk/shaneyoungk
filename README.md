@@ -19,14 +19,6 @@
 
 ---
 
-## 📊 Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoungk&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 👋 About Me
 
 I’m a senior frontend & mobile engineer focused on building **polished, scalable user-facing products**.
