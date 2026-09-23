@@ -1,6 +1,4 @@
-<!--  PROFILE HEADER       -->
-
-<!-- ===================== -->
+<!-- PROFILE HEADER -->
 
 <h1 align="center">SHANE YOUNG</h1>
 <h3 align="center">Senior Frontend & Mobile Engineer · Product-Focused</h3>
@@ -11,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shanekizito">
-    <img src="https://img.shields.io/github/followers/shanekizito?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/shaneyoungk">
+    <img src="https://img.shields.io/github/followers/shaneyoungk?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/shanekizito?tab=repositories">
-    <img src="https://img.shields.io/github/stars/shanekizito?label=Stars&style=for-the-badge" />
+  <a href="https://github.com/shaneyoungk?tab=repositories">
+    <img src="https://img.shields.io/github/stars/shaneyoungk?label=Stars&style=for-the-badge" alt="GitHub stars" />
   </a>
 </p>
 
@@ -24,7 +22,7 @@
 ## 📊 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoungk&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -32,12 +30,12 @@
 ## 👋 About Me
 
 I’m a senior frontend & mobile engineer focused on building **polished, scalable user-facing products**.
-I specialize in turning product ideas into fast, reliable applications that feel great to use especially on mobile.
+I specialize in turning product ideas into fast, reliable applications that feel great to use, especially on mobile.
 
 I’ve worked across startups and production systems, owning features end-to-end:
 
 * UI architecture and state management
-* mobile performance and platform-specific optimizations
+* Mobile performance and platform-specific optimizations
 * API integration and backend coordination
 * CI/CD, deployment, and iteration at speed
 
@@ -50,11 +48,11 @@ backend services that support real-world product needs.
 
 * Mobile apps with **React Native, Expo, and native integrations**
 * Frontend-heavy web applications using **React and modern UI systems**
-* Product-oriented APIs and backend services (Node.js, Firebase, Supabase)
-* Real-time, data-driven interfaces (maps, payments, chat, dashboards)
+* Product-oriented APIs and backend services with **Node.js, Firebase, and Supabase**
+* Real-time, data-driven interfaces including maps, payments, chat, and dashboards
 * Consumer-facing products with strong UX, performance, and reliability requirements
 
-I optimize for **clarity, user experience, and long-term maintainability**  not just shipping features.
+I optimize for **clarity, user experience, and long-term maintainability**, not just shipping features.
 
 ---
 
@@ -69,6 +67,7 @@ I optimize for **clarity, user experience, and long-term maintainability**  not 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
 ### Backend & Data (Supporting)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
@@ -97,7 +96,7 @@ I optimize for **clarity, user experience, and long-term maintainability**  not 
 * UX and performance are first-class engineering concerns
 * Prefer simple, explicit frontend architectures over clever abstractions
 * Design mobile-first, then scale to web
-* Backend exists to empower the frontend — not fight it
+* Backend exists to empower the frontend, not fight it
 * Build systems that evolve gracefully over time
 
 ---
